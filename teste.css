@@ -5,9 +5,9 @@ height: 20px;
 border: 8px solid;
 margin: 0 auto;
 border-radius: 50px;
-border-top-color: transparent;
+border-top-color:transparent;
 margin-top: 50%;
-color: blue;
+color: black;
 animation: load .6s  linear infinite;
 }
 
